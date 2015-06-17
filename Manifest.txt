@@ -1,0 +1,11 @@
+lib/ducks/base.rb
+lib/ducks/test.rb
+lib/ducks.rb
+test/suite.rb
+test/test_ducks.rb
+.gemtest
+manifest.xml
+Rakefile
+README.rdoc
+History.txt
+Manifest.txt
